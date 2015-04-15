@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Gl_Choice.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Gl_Overlay.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Gl_Window.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\freeglut_geometry.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\freeglut_stroke_mono_roman.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\freeglut_stroke_roman.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\freeglut_teapot.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\gl_draw.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\gl_start.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\glut_compatability.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\glut_font.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B71EB788-BBF4-4204-9633-F11AA81D0E49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

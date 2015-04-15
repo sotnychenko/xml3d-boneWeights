@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_images_core.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_BMP_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_GIF_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Help_Dialog.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_JPEG_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNG_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNM_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B71EB788-BBF4-4204-9633-F11AA81D0E49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

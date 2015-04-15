@@ -1,0 +1,520 @@
+﻿Build started 18/3/2015 14:22:19 .
+     1>Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\fltk.vcxproj" on node 4 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Oleksandr/Desktop/Pinocchio_source/fltk-1.1.10/src/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\zlib" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\png" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"fltk.dir\Debug\\" /Fd"fltk.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Adjuster.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Bitmap.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser_.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser_load.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Box.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Button.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Chart.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Check_Browser.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Check_Button.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Choice.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Clock.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Color_Chooser.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Counter.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Dial.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Double_Window.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Browser.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Input.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Group.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Help_View.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Input.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Input_.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Light_Button.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_Bar.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Sys_Menu_Bar.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_Button.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_Window.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_add.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_global.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Multi_Label.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Overlay_Window.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pack.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Positioner.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Progress.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Repeat_Button.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Return_Button.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Roller.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Round_Button.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Scroll.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Scrollbar.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Shared_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Single_Window.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Slider.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Tabs.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Display.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Editor.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Tile.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Tiled_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Tooltip.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Valuator.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Value_Input.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Value_Output.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Value_Slider.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Widget.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Window.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Window_fullscreen.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Window_hotspot.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Window_iconize.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Wizard.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_XBM_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_XPM_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_abort.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_add_idle.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_arg.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_compose.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_display.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_get_key.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_get_system_colors.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_grab.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_lock.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_own_colormap.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_visual.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_x.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_absolute.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_expand.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_ext.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_isdir.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_list.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_match.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_setext.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_arc.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_arci.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_ask.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_boxtype.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_color.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_cursor.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_curve.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_diamond_box.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_dnd.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_draw.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_draw_image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_draw_pixmap.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_engraved_label.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_file_dir.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_font.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_gtk.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_labeltype.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_line_style.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_open_uri.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_oval_box.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_overlay.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_overlay_visual.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_plastic.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_read_image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_rect.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_round_box.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_rounded_box.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_set_font.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_set_fonts.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_scroll_area.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shadow_box.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shortcut.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_show_colormap.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_symbols.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_vertex.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\screen_xywh.cxx"
+         Fl.cxx
+         Fl_Adjuster.cxx
+         Fl_Bitmap.cxx
+         Fl_Browser.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser.cxx(171): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser.cxx(199): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         Fl_Browser_.cxx
+         Fl_Browser_load.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser_load.cxx(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Fl_Box.cxx
+         Fl_Button.cxx
+         Fl_Chart.cxx
+         Fl_Check_Browser.cxx
+         Fl_Check_Button.cxx
+         Fl_Choice.cxx
+         Fl_Clock.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Clock.cxx(128): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Clock.cxx(155): warning C4244: 'argument' : conversion from 'time_t' to 'ulong', possible loss of data
+         Fl_Color_Chooser.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Color_Chooser.cxx(97): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         Fl_Counter.cxx
+         Fl_Dial.cxx
+         Fl_Double_Window.cxx
+         Fl_File_Browser.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Browser.cxx(471): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         Fl_File_Chooser.cxx
+         Fl_File_Chooser2.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(243): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : see declaration of 'getenv'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(369): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(377): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(781): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(168) : see declaration of 'strerror'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(974): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : see declaration of 'getenv'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(980): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx(1034): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Generating Code...
+         Compiling...
+         Fl_File_Icon.cxx
+         Fl_File_Input.cxx
+         Fl_Group.cxx
+         Fl_Help_View.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Help_View.cxx(878): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Help_View.cxx(1125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Help_View.cxx(3183): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Help_View.cxx(3200): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(168) : see declaration of 'strerror'
+         Fl_Image.cxx
+         Fl_Input.cxx
+         Fl_Input_.cxx
+         Fl_Light_Button.cxx
+         Fl_Menu.cxx
+         Fl_Menu_.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_.cxx(57): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_.cxx(58): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_.cxx(62): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_.cxx(63): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_.cxx(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         Fl_Menu_Bar.cxx
+         Fl_Sys_Menu_Bar.cxx
+         Fl_Menu_Button.cxx
+         Fl_Menu_Window.cxx
+         Fl_Menu_add.cxx
+         Fl_Menu_global.cxx
+         Fl_Multi_Label.cxx
+         Fl_Overlay_Window.cxx
+         Fl_Pack.cxx
+         Fl_Pixmap.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(209): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(217): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(232): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(277): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(280): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(292): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(307): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(372): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(407): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(408): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(412): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(430): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(451): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(482): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(483): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx(487): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         Generating Code...
+         Compiling...
+         Fl_Positioner.cxx
+         Fl_Preferences.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(230): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(252): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(263): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(285): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(296): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(555): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(573): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(337) : see declaration of 'vsnprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(665): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(767): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(809): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(830): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(932): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx(940): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         Fl_Progress.cxx
+         Fl_Repeat_Button.cxx
+         Fl_Return_Button.cxx
+         Fl_Roller.cxx
+         Fl_Round_Button.cxx
+         Fl_Scroll.cxx
+         Fl_Scrollbar.cxx
+         Fl_Shared_Image.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Shared_Image.cxx(109): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Shared_Image.cxx(226): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Shared_Image.cxx(283): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Shared_Image.cxx(356): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         Fl_Single_Window.cxx
+         Fl_Slider.cxx
+         Fl_Tabs.cxx
+         Fl_Text_Buffer.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(483): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(957): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(960): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(963): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(1732): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(1792): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(1892): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(2387): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(2502): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx(2518): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Fl_Text_Display.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Display.cxx(739): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         Fl_Text_Editor.cxx
+         Fl_Tile.cxx
+         Fl_Tiled_Image.cxx
+         Fl_Tooltip.cxx
+         Fl_Valuator.cxx
+         Generating Code...
+         Compiling...
+         Fl_Value_Input.cxx
+         Fl_Value_Output.cxx
+         Fl_Value_Slider.cxx
+         Fl_Widget.cxx
+         Fl_Window.cxx
+         Fl_Window_fullscreen.cxx
+         Fl_Window_hotspot.cxx
+         Fl_Window_iconize.cxx
+         Fl_Wizard.cxx
+         Fl_XBM_Image.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_XBM_Image.cxx(50): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_XBM_Image.cxx(62): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_XBM_Image.cxx(92): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+         Fl_XPM_Image.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_XPM_Image.cxx(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Fl_abort.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_abort.cxx(49): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(337) : see declaration of 'vsnprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_abort.cxx(58): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(337) : see declaration of 'vsnprintf'
+         Fl_add_idle.cxx
+         Fl_arg.cxx
+         Fl_compose.cxx
+         Fl_display.cxx
+         Fl_get_key.cxx
+         Fl_get_system_colors.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_get_system_colors.cxx(112): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_get_system_colors.cxx(250): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : see declaration of 'getenv'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_get_system_colors.cxx(271): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_get_system_colors.cxx(305): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         Fl_grab.cxx
+         Fl_lock.cxx
+         Generating Code...
+         Compiling...
+         Fl_own_colormap.cxx
+         Fl_visual.cxx
+         Fl_x.cxx
+         filename_absolute.cxx
+         filename_expand.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_expand.cxx(63): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : see declaration of 'getenv'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_expand.cxx(75): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : see declaration of 'getenv'
+         filename_ext.cxx
+         filename_isdir.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_isdir.cxx(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         filename_list.cxx
+         filename_match.cxx
+         filename_setext.cxx
+         fl_arc.cxx
+         fl_arci.cxx
+         fl_ask.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_ask.cxx(191): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(337) : see declaration of 'vsnprintf'
+         fl_boxtype.cxx
+         fl_color.cxx
+         fl_cursor.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_cursor.cxx(91): warning C4996: 'GetVersionExA': was declared deprecated
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(433) : see declaration of 'GetVersionExA'
+         fl_curve.cxx
+         fl_diamond_box.cxx
+         fl_dnd.cxx
+         fl_draw.cxx
+         Generating Code...
+         Compiling...
+         fl_draw_image.cxx
+         fl_draw_pixmap.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_draw_pixmap.cxx(51): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+         fl_engraved_label.cxx
+         fl_file_dir.cxx
+         fl_font.cxx
+         fl_gtk.cxx
+         fl_labeltype.cxx
+         fl_line_style.cxx
+         fl_open_uri.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_open_uri.cxx(104): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+         fl_oval_box.cxx
+         fl_overlay.cxx
+         fl_overlay_visual.cxx
+         fl_plastic.cxx
+         fl_read_image.cxx
+         fl_rect.cxx
+         fl_round_box.cxx
+         fl_rounded_box.cxx
+         fl_set_font.cxx
+         fl_set_fonts.cxx
+     1>c:\users\oleksandr\desktop\pinocchio_source\fltk-1.1.10\src\fl_set_fonts_win32.cxx(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         fl_scroll_area.cxx
+         Generating Code...
+         Compiling...
+         fl_shadow_box.cxx
+         fl_shortcut.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shortcut.cxx(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shortcut.cxx(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shortcut.cxx(153): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shortcut.cxx(154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shortcut.cxx(169): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shortcut.cxx(177): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         fl_show_colormap.cxx
+         fl_symbols.cxx
+         fl_vertex.cxx
+         screen_xywh.cxx
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\zlib" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\png" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"fltk.dir\Debug\\" /Fd"fltk.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_call_main.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\flstring.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\scandir.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\numericsort.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c"
+         fl_call_main.c
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_call_main.c(82): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(226) : see declaration of 'freopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_call_main.c(83): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(226) : see declaration of 'freopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_call_main.c(84): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(226) : see declaration of 'freopen'
+         flstring.c
+         scandir.c
+     1>c:\users\oleksandr\desktop\pinocchio_source\fltk-1.1.10\src\scandir_win32.c(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\oleksandr\desktop\pinocchio_source\fltk-1.1.10\src\scandir_win32.c(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\oleksandr\desktop\pinocchio_source\fltk-1.1.10\src\scandir_win32.c(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\oleksandr\desktop\pinocchio_source\fltk-1.1.10\src\scandir_win32.c(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\oleksandr\desktop\pinocchio_source\fltk-1.1.10\src\scandir_win32.c(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\oleksandr\desktop\pinocchio_source\fltk-1.1.10\src\scandir_win32.c(78): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+         numericsort.c
+         vsnprintf.c
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(139): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(145): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(148): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(170): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(172): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(178): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(190): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(196): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(199): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(233): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(237): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : see declaration of 'strncpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c(269): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(337) : see declaration of 'vsnprintf'
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk.lib" /NOLOGO fltk.dir\Debug\Fl.obj
+         fltk.dir\Debug\Fl_Adjuster.obj
+         fltk.dir\Debug\Fl_Bitmap.obj
+         fltk.dir\Debug\Fl_Browser.obj
+         fltk.dir\Debug\Fl_Browser_.obj
+         fltk.dir\Debug\Fl_Browser_load.obj
+         fltk.dir\Debug\Fl_Box.obj
+         fltk.dir\Debug\Fl_Button.obj
+         fltk.dir\Debug\Fl_Chart.obj
+         fltk.dir\Debug\Fl_Check_Browser.obj
+         fltk.dir\Debug\Fl_Check_Button.obj
+         fltk.dir\Debug\Fl_Choice.obj
+         fltk.dir\Debug\Fl_Clock.obj
+         fltk.dir\Debug\Fl_Color_Chooser.obj
+         fltk.dir\Debug\Fl_Counter.obj
+         fltk.dir\Debug\Fl_Dial.obj
+         fltk.dir\Debug\Fl_Double_Window.obj
+         fltk.dir\Debug\Fl_File_Browser.obj
+         fltk.dir\Debug\Fl_File_Chooser.obj
+         fltk.dir\Debug\Fl_File_Chooser2.obj
+         fltk.dir\Debug\Fl_File_Icon.obj
+         fltk.dir\Debug\Fl_File_Input.obj
+         fltk.dir\Debug\Fl_Group.obj
+         fltk.dir\Debug\Fl_Help_View.obj
+         fltk.dir\Debug\Fl_Image.obj
+         fltk.dir\Debug\Fl_Input.obj
+         fltk.dir\Debug\Fl_Input_.obj
+         fltk.dir\Debug\Fl_Light_Button.obj
+         fltk.dir\Debug\Fl_Menu.obj
+         fltk.dir\Debug\Fl_Menu_.obj
+         fltk.dir\Debug\Fl_Menu_Bar.obj
+         fltk.dir\Debug\Fl_Sys_Menu_Bar.obj
+         fltk.dir\Debug\Fl_Menu_Button.obj
+         fltk.dir\Debug\Fl_Menu_Window.obj
+         fltk.dir\Debug\Fl_Menu_add.obj
+         fltk.dir\Debug\Fl_Menu_global.obj
+         fltk.dir\Debug\Fl_Multi_Label.obj
+         fltk.dir\Debug\Fl_Overlay_Window.obj
+         fltk.dir\Debug\Fl_Pack.obj
+         fltk.dir\Debug\Fl_Pixmap.obj
+         fltk.dir\Debug\Fl_Positioner.obj
+         fltk.dir\Debug\Fl_Preferences.obj
+         fltk.dir\Debug\Fl_Progress.obj
+         fltk.dir\Debug\Fl_Repeat_Button.obj
+         fltk.dir\Debug\Fl_Return_Button.obj
+         fltk.dir\Debug\Fl_Roller.obj
+         fltk.dir\Debug\Fl_Round_Button.obj
+         fltk.dir\Debug\Fl_Scroll.obj
+         fltk.dir\Debug\Fl_Scrollbar.obj
+         fltk.dir\Debug\Fl_Shared_Image.obj
+         fltk.dir\Debug\Fl_Single_Window.obj
+         fltk.dir\Debug\Fl_Slider.obj
+         fltk.dir\Debug\Fl_Tabs.obj
+         fltk.dir\Debug\Fl_Text_Buffer.obj
+         fltk.dir\Debug\Fl_Text_Display.obj
+         fltk.dir\Debug\Fl_Text_Editor.obj
+         fltk.dir\Debug\Fl_Tile.obj
+         fltk.dir\Debug\Fl_Tiled_Image.obj
+         fltk.dir\Debug\Fl_Tooltip.obj
+         fltk.dir\Debug\Fl_Valuator.obj
+         fltk.dir\Debug\Fl_Value_Input.obj
+         fltk.dir\Debug\Fl_Value_Output.obj
+         fltk.dir\Debug\Fl_Value_Slider.obj
+         fltk.dir\Debug\Fl_Widget.obj
+         fltk.dir\Debug\Fl_Window.obj
+         fltk.dir\Debug\Fl_Window_fullscreen.obj
+         fltk.dir\Debug\Fl_Window_hotspot.obj
+         fltk.dir\Debug\Fl_Window_iconize.obj
+         fltk.dir\Debug\Fl_Wizard.obj
+         fltk.dir\Debug\Fl_XBM_Image.obj
+         fltk.dir\Debug\Fl_XPM_Image.obj
+         fltk.dir\Debug\Fl_abort.obj
+         fltk.dir\Debug\Fl_add_idle.obj
+         fltk.dir\Debug\Fl_arg.obj
+         fltk.dir\Debug\Fl_compose.obj
+         fltk.dir\Debug\Fl_display.obj
+         fltk.dir\Debug\Fl_get_key.obj
+         fltk.dir\Debug\Fl_get_system_colors.obj
+         fltk.dir\Debug\Fl_grab.obj
+         fltk.dir\Debug\Fl_lock.obj
+         fltk.dir\Debug\Fl_own_colormap.obj
+         fltk.dir\Debug\Fl_visual.obj
+         fltk.dir\Debug\Fl_x.obj
+         fltk.dir\Debug\filename_absolute.obj
+         fltk.dir\Debug\filename_expand.obj
+         fltk.dir\Debug\filename_ext.obj
+         fltk.dir\Debug\filename_isdir.obj
+         fltk.dir\Debug\filename_list.obj
+         fltk.dir\Debug\filename_match.obj
+         fltk.dir\Debug\filename_setext.obj
+         fltk.dir\Debug\fl_arc.obj
+         fltk.dir\Debug\fl_arci.obj
+         fltk.dir\Debug\fl_ask.obj
+         fltk.dir\Debug\fl_boxtype.obj
+         fltk.dir\Debug\fl_color.obj
+         fltk.dir\Debug\fl_cursor.obj
+         fltk.dir\Debug\fl_curve.obj
+         fltk.dir\Debug\fl_diamond_box.obj
+         fltk.dir\Debug\fl_dnd.obj
+         fltk.dir\Debug\fl_draw.obj
+         fltk.dir\Debug\fl_draw_image.obj
+         fltk.dir\Debug\fl_draw_pixmap.obj
+         fltk.dir\Debug\fl_engraved_label.obj
+         fltk.dir\Debug\fl_file_dir.obj
+         fltk.dir\Debug\fl_font.obj
+         fltk.dir\Debug\fl_gtk.obj
+         fltk.dir\Debug\fl_labeltype.obj
+         fltk.dir\Debug\fl_line_style.obj
+         fltk.dir\Debug\fl_open_uri.obj
+         fltk.dir\Debug\fl_oval_box.obj
+         fltk.dir\Debug\fl_overlay.obj
+         fltk.dir\Debug\fl_overlay_visual.obj
+         fltk.dir\Debug\fl_plastic.obj
+         fltk.dir\Debug\fl_read_image.obj
+         fltk.dir\Debug\fl_rect.obj
+         fltk.dir\Debug\fl_round_box.obj
+         fltk.dir\Debug\fl_rounded_box.obj
+         fltk.dir\Debug\fl_set_font.obj
+         fltk.dir\Debug\fl_set_fonts.obj
+         fltk.dir\Debug\fl_scroll_area.obj
+         fltk.dir\Debug\fl_shadow_box.obj
+         fltk.dir\Debug\fl_shortcut.obj
+         fltk.dir\Debug\fl_show_colormap.obj
+         fltk.dir\Debug\fl_symbols.obj
+         fltk.dir\Debug\fl_vertex.obj
+         fltk.dir\Debug\screen_xywh.obj
+         fltk.dir\Debug\fl_call_main.obj
+         fltk.dir\Debug\flstring.obj
+         fltk.dir\Debug\scandir.obj
+         fltk.dir\Debug\numericsort.obj
+         fltk.dir\Debug\vsnprintf.obj
+         fltk.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk.lib
+     1>Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\fltk.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:25.26

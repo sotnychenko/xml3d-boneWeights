@@ -1,0 +1,25 @@
+﻿Build started 23/3/2015 14:23:30 .
+     1>Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Pinocchio\Pinocchio.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\DemoUI\lib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D PINOCCHIO_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt skeleton.cpp
+         skeleton.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Debug\Pinocchio.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Debug\Pinocchio.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Debug\Pinocchio.lib" /MACHINE:X86 /SAFESEH /DLL Debug\attachment.obj
+         Debug\discretization.obj
+         Debug\embedding.obj
+         Debug\graphutils.obj
+         Debug\indexer.obj
+         Debug\intersector.obj
+         Debug\lsqSolver.obj
+         Debug\matrix.obj
+         Debug\mesh.obj
+         Debug\Pinocchio.obj
+         Debug\pinocchioApi.obj
+         Debug\refinement.obj
+         Debug\skeleton.obj
+         Pinocchio.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Debug\Pinocchio.dll
+     1>Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Pinocchio\Pinocchio.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.46

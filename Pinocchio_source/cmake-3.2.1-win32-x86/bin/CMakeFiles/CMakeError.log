@@ -1,0 +1,824 @@
+Determining if files pthread.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1135258907.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:22 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1135258907.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1135258907.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1135258907.dir\Debug\cmTryCom.938B8A46.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1135258907.dir\Debug\cmTryCom.938B8A46.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1135258907.dir\Debug\\" /Fd"cmTryCompileExec1135258907.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1135258907.dir\Debug\\" /Fd"cmTryCompileExec1135258907.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1135258907.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1135258907.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1135258907.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1135258907.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source:
+/* */
+#include <pthread.h>
+
+
+int main(void){return 0;}
+
+Determining if files ;GL/glu.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1314981033.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:22 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1314981033.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1314981033.dir\Debug\cmTryCom.63202CBB.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1314981033.dir\Debug\cmTryCom.63202CBB.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1314981033.dir\Debug\\" /Fd"cmTryCompileExec1314981033.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1314981033.dir\Debug\\" /Fd"cmTryCompileExec1314981033.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2146: syntax error : missing ',' before identifier 'glAccum' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2146: syntax error : missing ',' before identifier 'glAlphaFunc' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2146: syntax error : missing ',' before identifier 'glAreTexturesResident' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2146: syntax error : missing ',' before identifier 'glArrayElement' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2146: syntax error : missing ',' before identifier 'glBegin' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2146: syntax error : missing ',' before identifier 'glBindTexture' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2146: syntax error : missing ',' before identifier 'glBitmap' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2146: syntax error : missing ',' before identifier 'glBlendFunc' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2146: syntax error : missing ',' before identifier 'glCallList' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2146: syntax error : missing ',' before identifier 'glCallLists' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2146: syntax error : missing ',' before identifier 'glClear' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2146: syntax error : missing ',' before identifier 'glClearAccum' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2146: syntax error : missing ',' before identifier 'glClearColor' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2146: syntax error : missing ',' before identifier 'glClearDepth' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2146: syntax error : missing ',' before identifier 'glClearIndex' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2146: syntax error : missing ',' before identifier 'glClearStencil' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2146: syntax error : missing ',' before identifier 'glClipPlane' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2146: syntax error : missing ',' before identifier 'glColor3b' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2146: syntax error : missing ',' before identifier 'glColor3bv' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2146: syntax error : missing ',' before identifier 'glColor3d' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1177): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1177): fatal error C1003: error count exceeds 100; stopping compilation [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2146: syntax error : missing ',' before identifier 'glAccum' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1157): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2146: syntax error : missing ',' before identifier 'glAlphaFunc' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1158): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2146: syntax error : missing ',' before identifier 'glAreTexturesResident' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1159): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2146: syntax error : missing ',' before identifier 'glArrayElement' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1160): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2146: syntax error : missing ',' before identifier 'glBegin' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1161): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2146: syntax error : missing ',' before identifier 'glBindTexture' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1162): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2146: syntax error : missing ',' before identifier 'glBitmap' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1163): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2146: syntax error : missing ',' before identifier 'glBlendFunc' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1164): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2146: syntax error : missing ',' before identifier 'glCallList' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1165): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2146: syntax error : missing ',' before identifier 'glCallLists' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1166): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2146: syntax error : missing ',' before identifier 'glClear' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1167): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2146: syntax error : missing ',' before identifier 'glClearAccum' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1168): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2146: syntax error : missing ',' before identifier 'glClearColor' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1169): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2146: syntax error : missing ',' before identifier 'glClearDepth' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1170): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2146: syntax error : missing ',' before identifier 'glClearIndex' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1171): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2146: syntax error : missing ',' before identifier 'glClearStencil' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1172): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2146: syntax error : missing ',' before identifier 'glClipPlane' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1173): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2146: syntax error : missing ',' before identifier 'glColor3b' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1174): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2146: syntax error : missing ',' before identifier 'glColor3bv' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1175): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2085: 'APIENTRY' : not in formal parameter list [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2146: syntax error : missing ',' before identifier 'glColor3d' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2143: syntax error : missing ';' before '(' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1176): error C2059: syntax error : ')' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1177): error C2054: expected '(' to follow 'WINGDIAPI' [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1177): fatal error C1003: error count exceeds 100; stopping compilation [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1314981033.vcxproj]
+
+    0 Warning(s)
+    102 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source:
+/* */
+#include <GL/glu.h>
+
+
+int main(void){return 0;}
+
+Determining if files ;OpenGL/glu.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1450575408.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:23 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1450575408.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1450575408.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1450575408.dir\Debug\cmTryCom.A72FF688.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1450575408.dir\Debug\cmTryCom.A72FF688.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1450575408.dir\Debug\\" /Fd"cmTryCompileExec1450575408.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1450575408.dir\Debug\\" /Fd"cmTryCompileExec1450575408.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'OpenGL/glu.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1450575408.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1450575408.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1450575408.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'OpenGL/glu.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1450575408.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source:
+/* */
+#include <OpenGL/glu.h>
+
+
+int main(void){return 0;}
+
+Determining if files ;dirent.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2862969059.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:23 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2862969059.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2862969059.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2862969059.dir\Debug\cmTryCom.3264DEB7.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2862969059.dir\Debug\cmTryCom.3264DEB7.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2862969059.dir\Debug\\" /Fd"cmTryCompileExec2862969059.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2862969059.dir\Debug\\" /Fd"cmTryCompileExec2862969059.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'dirent.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2862969059.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2862969059.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2862969059.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'dirent.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2862969059.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.34
+
+Source:
+/* */
+#include <dirent.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;strings.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1365153486.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:24 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1365153486.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1365153486.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1365153486.dir\Debug\cmTryCom.44E76792.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1365153486.dir\Debug\cmTryCom.44E76792.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1365153486.dir\Debug\\" /Fd"cmTryCompileExec1365153486.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1365153486.dir\Debug\\" /Fd"cmTryCompileExec1365153486.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'strings.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1365153486.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1365153486.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1365153486.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'strings.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1365153486.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source:
+/* */
+#include <stdio.h>
+#include <strings.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;sys/dir.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec772198840.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:25 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec772198840.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec772198840.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec772198840.dir\Debug\cmTryCom.FDC736A4.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec772198840.dir\Debug\cmTryCom.FDC736A4.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec772198840.dir\Debug\\" /Fd"cmTryCompileExec772198840.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec772198840.dir\Debug\\" /Fd"cmTryCompileExec772198840.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'sys/dir.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec772198840.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec772198840.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec772198840.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'sys/dir.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec772198840.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source:
+/* */
+#include <stdio.h>
+#include <sys/dir.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;sys/ndir.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3141549431.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:25 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3141549431.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec3141549431.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3141549431.dir\Debug\cmTryCom.D6D748AF.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec3141549431.dir\Debug\cmTryCom.D6D748AF.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3141549431.dir\Debug\\" /Fd"cmTryCompileExec3141549431.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3141549431.dir\Debug\\" /Fd"cmTryCompileExec3141549431.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'sys/ndir.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3141549431.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3141549431.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3141549431.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'sys/ndir.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3141549431.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+Source:
+/* */
+#include <stdio.h>
+#include <sys/ndir.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;sys/select.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3953996399.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:26 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3953996399.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec3953996399.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3953996399.dir\Debug\cmTryCom.F49C6B34.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec3953996399.dir\Debug\cmTryCom.F49C6B34.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3953996399.dir\Debug\\" /Fd"cmTryCompileExec3953996399.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3953996399.dir\Debug\\" /Fd"cmTryCompileExec3953996399.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'sys/select.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3953996399.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3953996399.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3953996399.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'sys/select.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3953996399.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source:
+/* */
+#include <stdio.h>
+#include <sys/select.h>
+
+
+int main(void){return 0;}
+
+Determining if files stdio.h;sys/stdtypes.h exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec56759768.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:26 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec56759768.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec56759768.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec56759768.dir\Debug\cmTryCom.49335579.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec56759768.dir\Debug\cmTryCom.49335579.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec56759768.dir\Debug\\" /Fd"cmTryCompileExec56759768.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec56759768.dir\Debug\\" /Fd"cmTryCompileExec56759768.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'sys/stdtypes.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec56759768.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec56759768.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec56759768.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(3): fatal error C1083: Cannot open include file: 'sys/stdtypes.h': No such file or directory [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec56759768.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+Source:
+/* */
+#include <stdio.h>
+#include <sys/stdtypes.h>
+
+
+int main(void){return 0;}
+
+Determining if the strlcat exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2272958569.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:28 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2272958569.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2272958569.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2272958569.dir\Debug\cmTryCom.53CA25FA.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2272958569.dir\Debug\cmTryCom.53CA25FA.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2272958569.dir\Debug\\" /Fd"cmTryCompileExec2272958569.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2272958569.dir\Debug\\" /Fd"cmTryCompileExec2272958569.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  
+  CheckSymbolExists.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: 'strlcat' : undeclared identifier [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2272958569.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2272958569.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2272958569.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: 'strlcat' : undeclared identifier [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2272958569.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+File C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strlcat
+  return ((int*)(&strlcat))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strlcpy exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2759615766.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:28 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2759615766.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2759615766.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2759615766.dir\Debug\cmTryCom.7FE3A64B.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2759615766.dir\Debug\cmTryCom.7FE3A64B.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2759615766.dir\Debug\\" /Fd"cmTryCompileExec2759615766.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2759615766.dir\Debug\\" /Fd"cmTryCompileExec2759615766.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  
+  CheckSymbolExists.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: 'strlcpy' : undeclared identifier [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2759615766.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2759615766.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2759615766.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: 'strlcpy' : undeclared identifier [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2759615766.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+File C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strlcpy
+  return ((int*)(&strlcpy))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the snprintf exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1025832885.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:29 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1025832885.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1025832885.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1025832885.dir\Debug\cmTryCom.939CB454.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1025832885.dir\Debug\cmTryCom.939CB454.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1025832885.dir\Debug\\" /Fd"cmTryCompileExec1025832885.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1025832885.dir\Debug\\" /Fd"cmTryCompileExec1025832885.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  
+  CheckSymbolExists.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: 'snprintf' : undeclared identifier [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1025832885.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1025832885.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1025832885.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: 'snprintf' : undeclared identifier [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1025832885.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+File C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef snprintf
+  return ((int*)(&snprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the scandir exist failed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2604269655.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:30 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2604269655.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2604269655.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2604269655.dir\Debug\cmTryCom.A5B7549D.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2604269655.dir\Debug\cmTryCom.A5B7549D.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2604269655.dir\Debug\\" /Fd"cmTryCompileExec2604269655.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2604269655.dir\Debug\\" /Fd"cmTryCompileExec2604269655.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  
+  CheckSymbolExists.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: 'scandir' : undeclared identifier [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2604269655.vcxproj]
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2604269655.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2604269655.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: 'scandir' : undeclared identifier [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2604269655.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+File C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef scandir
+  return ((int*)(&scandir))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

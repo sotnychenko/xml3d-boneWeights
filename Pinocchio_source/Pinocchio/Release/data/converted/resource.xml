@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml3d>
+    <data xmlns="http://www.xml3d.org/2009/xml3d" id="shape0-lib">
+        <data
+            filter="keep({position:position0, normal:normal0, index:index0})" src="data.json"/>
+    </data>
+</xml3d>

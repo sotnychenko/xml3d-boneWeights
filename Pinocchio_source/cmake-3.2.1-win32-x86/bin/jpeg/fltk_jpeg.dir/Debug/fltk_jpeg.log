@@ -1,0 +1,117 @@
+﻿Build started 18/3/2015 14:22:19 .
+     1>Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\jpeg\fltk_jpeg.vcxproj" on node 3 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Oleksandr/Desktop/Pinocchio_source/fltk-1.1.10/jpeg/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\jpeg\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\zlib" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\png" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\jpeg" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"fltk_jpeg.dir\Debug\\" /Fd"fltk_jpeg.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jmemnobs.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcomapi.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jutils.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jerror.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jmemmgr.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcapimin.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcapistd.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jctrans.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcparam.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdatadst.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcinit.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcmaster.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcmarker.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcmainct.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcprepct.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jccoefct.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jccolor.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcsample.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jchuff.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcphuff.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jcdctmgr.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jfdctfst.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jfdctflt.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jfdctint.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdapimin.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdapistd.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdtrans.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdatasrc.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdmaster.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdinput.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdmarker.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdhuff.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdphuff.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdmainct.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdcoefct.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdpostct.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jddctmgr.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jidctfst.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jidctflt.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jidctint.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jidctred.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdsample.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdcolor.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jquant1.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jquant2.c" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jdmerge.c"
+         jmemnobs.c
+         jcomapi.c
+         jutils.c
+         jerror.c
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jerror.c(194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jerror.c(200): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+         jmemmgr.c
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg\jmemmgr.c(1109): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+         jcapimin.c
+         jcapistd.c
+         jctrans.c
+         jcparam.c
+         jdatadst.c
+         jcinit.c
+         jcmaster.c
+         jcmarker.c
+         jcmainct.c
+         jcprepct.c
+         jccoefct.c
+         jccolor.c
+         jcsample.c
+         jchuff.c
+         jcphuff.c
+         Generating Code...
+         Compiling...
+         jcdctmgr.c
+         jfdctfst.c
+         jfdctflt.c
+         jfdctint.c
+         jdapimin.c
+         jdapistd.c
+         jdtrans.c
+         jdatasrc.c
+         jdmaster.c
+         jdinput.c
+         jdmarker.c
+         jdhuff.c
+         jdphuff.c
+         jdmainct.c
+         jdcoefct.c
+         jdpostct.c
+         jddctmgr.c
+         jidctfst.c
+         jidctflt.c
+         jidctint.c
+         Generating Code...
+         Compiling...
+         jidctred.c
+         jdsample.c
+         jdcolor.c
+         jquant1.c
+         jquant2.c
+         jdmerge.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk_jpeg.lib" /NOLOGO fltk_jpeg.dir\Debug\jmemnobs.obj
+         fltk_jpeg.dir\Debug\jcomapi.obj
+         fltk_jpeg.dir\Debug\jutils.obj
+         fltk_jpeg.dir\Debug\jerror.obj
+         fltk_jpeg.dir\Debug\jmemmgr.obj
+         fltk_jpeg.dir\Debug\jcapimin.obj
+         fltk_jpeg.dir\Debug\jcapistd.obj
+         fltk_jpeg.dir\Debug\jctrans.obj
+         fltk_jpeg.dir\Debug\jcparam.obj
+         fltk_jpeg.dir\Debug\jdatadst.obj
+         fltk_jpeg.dir\Debug\jcinit.obj
+         fltk_jpeg.dir\Debug\jcmaster.obj
+         fltk_jpeg.dir\Debug\jcmarker.obj
+         fltk_jpeg.dir\Debug\jcmainct.obj
+         fltk_jpeg.dir\Debug\jcprepct.obj
+         fltk_jpeg.dir\Debug\jccoefct.obj
+         fltk_jpeg.dir\Debug\jccolor.obj
+         fltk_jpeg.dir\Debug\jcsample.obj
+         fltk_jpeg.dir\Debug\jchuff.obj
+         fltk_jpeg.dir\Debug\jcphuff.obj
+         fltk_jpeg.dir\Debug\jcdctmgr.obj
+         fltk_jpeg.dir\Debug\jfdctfst.obj
+         fltk_jpeg.dir\Debug\jfdctflt.obj
+         fltk_jpeg.dir\Debug\jfdctint.obj
+         fltk_jpeg.dir\Debug\jdapimin.obj
+         fltk_jpeg.dir\Debug\jdapistd.obj
+         fltk_jpeg.dir\Debug\jdtrans.obj
+         fltk_jpeg.dir\Debug\jdatasrc.obj
+         fltk_jpeg.dir\Debug\jdmaster.obj
+         fltk_jpeg.dir\Debug\jdinput.obj
+         fltk_jpeg.dir\Debug\jdmarker.obj
+         fltk_jpeg.dir\Debug\jdhuff.obj
+         fltk_jpeg.dir\Debug\jdphuff.obj
+         fltk_jpeg.dir\Debug\jdmainct.obj
+         fltk_jpeg.dir\Debug\jdcoefct.obj
+         fltk_jpeg.dir\Debug\jdpostct.obj
+         fltk_jpeg.dir\Debug\jddctmgr.obj
+         fltk_jpeg.dir\Debug\jidctfst.obj
+         fltk_jpeg.dir\Debug\jidctflt.obj
+         fltk_jpeg.dir\Debug\jidctint.obj
+         fltk_jpeg.dir\Debug\jidctred.obj
+         fltk_jpeg.dir\Debug\jdsample.obj
+         fltk_jpeg.dir\Debug\jdcolor.obj
+         fltk_jpeg.dir\Debug\jquant1.obj
+         fltk_jpeg.dir\Debug\jquant2.obj
+         fltk_jpeg.dir\Debug\jdmerge.obj
+         fltk_jpeg.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk_jpeg.lib
+     1>Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\jpeg\fltk_jpeg.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.68

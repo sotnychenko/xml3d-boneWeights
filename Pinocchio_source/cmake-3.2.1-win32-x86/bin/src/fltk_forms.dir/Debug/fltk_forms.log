@@ -1,0 +1,33 @@
+﻿Build started 18/3/2015 14:22:45 .
+     1>Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\fltk_forms.vcxproj" on node 3 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Oleksandr/Desktop/Pinocchio_source/fltk-1.1.10/src/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\zlib" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\png" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"fltk_forms.dir\Debug\\" /Fd"fltk_forms.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_compatability.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_bitmap.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_free.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_fselect.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_pixmap.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_timer.cxx"
+         forms_compatability.cxx
+         forms_bitmap.cxx
+         forms_free.cxx
+         forms_fselect.cxx
+         forms_pixmap.cxx
+         forms_timer.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_timer.cxx(60): warning C4244: '=' : conversion from 'time_t' to 'long', possible loss of data
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_timer.cxx(86): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_timer.cxx(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\forms_timer.cxx(140): warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk_forms.lib" /NOLOGO fltk_forms.dir\Debug\forms_compatability.obj
+         fltk_forms.dir\Debug\forms_bitmap.obj
+         fltk_forms.dir\Debug\forms_free.obj
+         fltk_forms.dir\Debug\forms_fselect.obj
+         fltk_forms.dir\Debug\forms_pixmap.obj
+         fltk_forms.dir\Debug\forms_timer.obj
+         fltk_forms.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk_forms.lib
+     1>Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\fltk_forms.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.86

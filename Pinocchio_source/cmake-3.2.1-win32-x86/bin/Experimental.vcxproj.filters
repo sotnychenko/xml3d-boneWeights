@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\967c65259cf87441f4902e35661ddf9b\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D9D1D0F5-8704-41E5-B824-4D3C4B82F1AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

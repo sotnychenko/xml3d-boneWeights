@@ -1,0 +1,39 @@
+﻿Build started 18/3/2015 14:22:45 .
+     1>Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\fltk_gl.vcxproj" on node 4 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Oleksandr/Desktop/Pinocchio_source/fltk-1.1.10/src/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\zlib" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\png" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"fltk_gl.dir\Debug\\" /Fd"fltk_gl.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Gl_Choice.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Gl_Overlay.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Gl_Window.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\freeglut_geometry.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\freeglut_stroke_mono_roman.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\freeglut_stroke_roman.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\freeglut_teapot.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\gl_draw.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\gl_start.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\glut_compatability.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\glut_font.cxx"
+         Fl_Gl_Choice.cxx
+         Fl_Gl_Overlay.cxx
+         Fl_Gl_Window.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Gl_Window.cxx(296): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : see declaration of 'getenv'
+         freeglut_geometry.cxx
+         freeglut_stroke_mono_roman.cxx
+         freeglut_stroke_roman.cxx
+         freeglut_teapot.cxx
+         gl_draw.cxx
+         gl_start.cxx
+         glut_compatability.cxx
+         glut_font.cxx
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk_gl.lib" /NOLOGO fltk_gl.dir\Debug\Fl_Gl_Choice.obj
+         fltk_gl.dir\Debug\Fl_Gl_Overlay.obj
+         fltk_gl.dir\Debug\Fl_Gl_Window.obj
+         fltk_gl.dir\Debug\freeglut_geometry.obj
+         fltk_gl.dir\Debug\freeglut_stroke_mono_roman.obj
+         fltk_gl.dir\Debug\freeglut_stroke_roman.obj
+         fltk_gl.dir\Debug\freeglut_teapot.obj
+         fltk_gl.dir\Debug\gl_draw.obj
+         fltk_gl.dir\Debug\gl_start.obj
+         fltk_gl.dir\Debug\glut_compatability.obj
+         fltk_gl.dir\Debug\glut_font.obj
+         fltk_gl.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk_gl.lib
+     1>Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\fltk_gl.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.52

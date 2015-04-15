@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\CodeEditor.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\Fl_Function_Type.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\Fl_Group_Type.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\Fl_Menu_Type.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\Fl_Type.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\Fl_Widget_Type.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\Fl_Window_Type.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\Fluid_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\about_panel.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\align_widget.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\alignment_panel.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\code.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\factory.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\file.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\fluid.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\function_panel.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\template_panel.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\undo.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\widget_panel.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\fluid\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B71EB788-BBF4-4204-9633-F11AA81D0E49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

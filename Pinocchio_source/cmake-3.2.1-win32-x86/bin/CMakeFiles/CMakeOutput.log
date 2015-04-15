@@ -1,0 +1,673 @@
+The system is: Windows - 6.2 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:14 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\3.2.1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\3.2.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\3.2.1\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.55
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/3.2.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:17 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\3.2.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\3.2.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\3.2.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.54
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/3.2.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec353807320.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:18 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec353807320.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec353807320.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec353807320.dir\Debug\cmTryCom.A3D3D739.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec353807320.dir\Debug\cmTryCom.A3D3D739.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec353807320.dir\Debug\\" /Fd"cmTryCompileExec353807320.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec353807320.dir\Debug\\" /Fd"cmTryCompileExec353807320.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec353807320.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec353807320.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec353807320.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec353807320.dir\Debug\testCCompiler.obj
+  cmTryCompileExec353807320.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec353807320.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec353807320.dir\Debug\cmTryCom.A3D3D739.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec353807320.dir\Debug\cmTryCom.A3D3D739.tlog\cmTryCompileExec353807320.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec353807320.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.90
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1442921113.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:19 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1442921113.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1442921113.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1442921113.dir\Debug\cmTryCom.D6093F15.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1442921113.dir\Debug\cmTryCom.D6093F15.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1442921113.dir\Debug\\" /Fd"cmTryCompileExec1442921113.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1442921113.dir\Debug\\" /Fd"cmTryCompileExec1442921113.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1442921113.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1442921113.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1442921113.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec1442921113.dir\Debug\CMakeCCompilerABI.obj
+  cmTryCompileExec1442921113.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1442921113.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec1442921113.dir\Debug\cmTryCom.D6093F15.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1442921113.dir\Debug\cmTryCom.D6093F15.tlog\cmTryCompileExec1442921113.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1442921113.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.54
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2583875369.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:20 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2583875369.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2583875369.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2583875369.dir\Debug\cmTryCom.678FA10D.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2583875369.dir\Debug\cmTryCom.678FA10D.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2583875369.dir\Debug\\" /Fd"cmTryCompileExec2583875369.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2583875369.dir\Debug\\" /Fd"cmTryCompileExec2583875369.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2583875369.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2583875369.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2583875369.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2583875369.dir\Debug\testCXXCompiler.obj
+  cmTryCompileExec2583875369.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2583875369.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2583875369.dir\Debug\cmTryCom.678FA10D.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2583875369.dir\Debug\cmTryCom.678FA10D.tlog\cmTryCompileExec2583875369.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2583875369.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.59
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2989010009.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:20 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2989010009.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2989010009.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2989010009.dir\Debug\cmTryCom.7D23F15B.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2989010009.dir\Debug\cmTryCom.7D23F15B.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2989010009.dir\Debug\\" /Fd"cmTryCompileExec2989010009.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2989010009.dir\Debug\\" /Fd"cmTryCompileExec2989010009.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2989010009.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2989010009.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2989010009.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2989010009.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTryCompileExec2989010009.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2989010009.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2989010009.dir\Debug\cmTryCom.7D23F15B.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2989010009.dir\Debug\cmTryCom.7D23F15B.tlog\cmTryCompileExec2989010009.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2989010009.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.60
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2826032139.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:21 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2826032139.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2826032139.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2826032139.dir\Debug\cmTryCom.FB6F49B6.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2826032139.dir\Debug\cmTryCom.FB6F49B6.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2826032139.dir\Debug\\" /Fd"cmTryCompileExec2826032139.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2826032139.dir\Debug\\" /Fd"cmTryCompileExec2826032139.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2826032139.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2826032139.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2826032139.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2826032139.dir\Debug\feature_tests.obj
+  cmTryCompileExec2826032139.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2826032139.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2826032139.dir\Debug\cmTryCom.FB6F49B6.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2826032139.dir\Debug\cmTryCom.FB6F49B6.tlog\cmTryCompileExec2826032139.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2826032139.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.57
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if files ;stdio.h exist passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2274209805.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:24 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2274209805.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2274209805.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2274209805.dir\Debug\cmTryCom.93C8C17F.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2274209805.dir\Debug\cmTryCom.93C8C17F.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2274209805.dir\Debug\\" /Fd"cmTryCompileExec2274209805.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2274209805.dir\Debug\\" /Fd"cmTryCompileExec2274209805.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2274209805.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2274209805.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2274209805.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2274209805.dir\Debug\CheckIncludeFiles.obj
+  cmTryCompileExec2274209805.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2274209805.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2274209805.dir\Debug\cmTryCom.93C8C17F.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2274209805.dir\Debug\cmTryCom.93C8C17F.tlog\cmTryCompileExec2274209805.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2274209805.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.59
+
+
+Determining if the vsnprintf exist passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3762045533.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:28 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3762045533.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec3762045533.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3762045533.dir\Debug\cmTryCom.FD58B42D.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec3762045533.dir\Debug\cmTryCom.FD58B42D.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3762045533.dir\Debug\\" /Fd"cmTryCompileExec3762045533.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3762045533.dir\Debug\\" /Fd"cmTryCompileExec3762045533.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  
+  CheckSymbolExists.c
+C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3762045533.vcxproj]
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(337) : see declaration of 'vsnprintf'
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3762045533.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3762045533.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3762045533.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3762045533.dir\Debug\CheckSymbolExists.obj
+  cmTryCompileExec3762045533.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3762045533.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec3762045533.dir\Debug\cmTryCom.FD58B42D.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec3762045533.dir\Debug\cmTryCom.FD58B42D.tlog\cmTryCompileExec3762045533.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3762045533.vcxproj" (default targets).
+
+Build succeeded.
+
+"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3762045533.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): warning C4996: 'vsnprintf': This function or variable may be unsafe. Consider using vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3762045533.vcxproj]
+
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.53
+
+File C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef vsnprintf
+  return ((int*)(&vsnprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec265767229.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:30 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec265767229.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec265767229.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec265767229.dir\Debug\cmTryCom.0BE9C1AD.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec265767229.dir\Debug\cmTryCom.0BE9C1AD.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec265767229.dir\Debug\\" /Fd"cmTryCompileExec265767229.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec265767229.dir\Debug\\" /Fd"cmTryCompileExec265767229.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec265767229.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec265767229.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec265767229.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec265767229.dir\Debug\CheckIncludeFile.obj
+  cmTryCompileExec265767229.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec265767229.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec265767229.dir\Debug\cmTryCom.0BE9C1AD.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec265767229.dir\Debug\cmTryCom.0BE9C1AD.tlog\cmTryCompileExec265767229.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec265767229.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.67
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec408471996.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:31 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec408471996.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec408471996.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec408471996.dir\Debug\cmTryCom.4A86B0EA.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec408471996.dir\Debug\cmTryCom.4A86B0EA.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec408471996.dir\Debug\\" /Fd"cmTryCompileExec408471996.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec408471996.dir\Debug\\" /Fd"cmTryCompileExec408471996.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec408471996.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec408471996.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec408471996.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec408471996.dir\Debug\CheckIncludeFile.obj
+  cmTryCompileExec408471996.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec408471996.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec408471996.dir\Debug\cmTryCom.4A86B0EA.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec408471996.dir\Debug\cmTryCom.4A86B0EA.tlog\cmTryCompileExec408471996.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec408471996.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.59
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1385880651.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:32 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1385880651.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1385880651.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1385880651.dir\Debug\cmTryCom.50F6C2AD.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1385880651.dir\Debug\cmTryCom.50F6C2AD.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1385880651.dir\Debug\\" /Fd"cmTryCompileExec1385880651.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1385880651.dir\Debug\\" /Fd"cmTryCompileExec1385880651.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1385880651.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1385880651.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1385880651.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec1385880651.dir\Debug\CheckIncludeFile.obj
+  cmTryCompileExec1385880651.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1385880651.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec1385880651.dir\Debug\cmTryCom.50F6C2AD.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1385880651.dir\Debug\cmTryCom.50F6C2AD.tlog\cmTryCompileExec1385880651.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1385880651.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.64
+
+
+Determining size of short passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1041599837.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:32 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1041599837.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1041599837.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1041599837.dir\Debug\cmTryCom.B98937F2.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1041599837.dir\Debug\cmTryCom.B98937F2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1041599837.dir\Debug\\" /Fd"cmTryCompileExec1041599837.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CheckTypeSize\SIZEOF_SHORT.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1041599837.dir\Debug\\" /Fd"cmTryCompileExec1041599837.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CheckTypeSize\SIZEOF_SHORT.c"
+  
+  SIZEOF_SHORT.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1041599837.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1041599837.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1041599837.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec1041599837.dir\Debug\SIZEOF_SHORT.obj
+  cmTryCompileExec1041599837.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1041599837.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec1041599837.dir\Debug\cmTryCom.B98937F2.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1041599837.dir\Debug\cmTryCom.B98937F2.tlog\cmTryCompileExec1041599837.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1041599837.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.53
+
+
+Determining size of int passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1356697965.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:33 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1356697965.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1356697965.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1356697965.dir\Debug\cmTryCom.AE883296.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1356697965.dir\Debug\cmTryCom.AE883296.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1356697965.dir\Debug\\" /Fd"cmTryCompileExec1356697965.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CheckTypeSize\SIZEOF_INT.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1356697965.dir\Debug\\" /Fd"cmTryCompileExec1356697965.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CheckTypeSize\SIZEOF_INT.c"
+  
+  SIZEOF_INT.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1356697965.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1356697965.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1356697965.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec1356697965.dir\Debug\SIZEOF_INT.obj
+  cmTryCompileExec1356697965.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1356697965.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec1356697965.dir\Debug\cmTryCom.AE883296.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1356697965.dir\Debug\cmTryCom.AE883296.tlog\cmTryCompileExec1356697965.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1356697965.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.57
+
+
+Determining size of long passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec987749285.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:34 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec987749285.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec987749285.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec987749285.dir\Debug\cmTryCom.B2EBB8A5.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec987749285.dir\Debug\cmTryCom.B2EBB8A5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec987749285.dir\Debug\\" /Fd"cmTryCompileExec987749285.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CheckTypeSize\SIZEOF_LONG.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec987749285.dir\Debug\\" /Fd"cmTryCompileExec987749285.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CheckTypeSize\SIZEOF_LONG.c"
+  
+  SIZEOF_LONG.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec987749285.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec987749285.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec987749285.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec987749285.dir\Debug\SIZEOF_LONG.obj
+  cmTryCompileExec987749285.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec987749285.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec987749285.dir\Debug\cmTryCom.B2EBB8A5.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec987749285.dir\Debug\cmTryCom.B2EBB8A5.tlog\cmTryCompileExec987749285.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec987749285.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.57
+
+

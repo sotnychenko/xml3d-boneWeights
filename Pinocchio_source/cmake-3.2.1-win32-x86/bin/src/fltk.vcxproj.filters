@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Adjuster.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Bitmap.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser_.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Browser_load.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Box.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Button.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Chart.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Check_Browser.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Check_Button.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Choice.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Clock.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Color_Chooser.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Counter.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Dial.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Double_Window.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Browser.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Chooser2.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Input.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Group.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Help_View.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Input.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Input_.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Light_Button.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_Bar.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Sys_Menu_Bar.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_Button.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_Window.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_add.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Menu_global.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Multi_Label.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Overlay_Window.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pack.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Pixmap.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Positioner.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Preferences.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Progress.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Repeat_Button.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Return_Button.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Roller.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Round_Button.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Scroll.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Scrollbar.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Shared_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Single_Window.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Slider.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Tabs.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Buffer.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Display.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Text_Editor.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Tile.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Tiled_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Tooltip.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Valuator.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Value_Input.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Value_Output.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Value_Slider.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Widget.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Window.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Window_fullscreen.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Window_hotspot.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Window_iconize.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Wizard.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_XBM_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_XPM_Image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_abort.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_add_idle.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_arg.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_compose.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_display.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_get_key.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_get_system_colors.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_grab.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_lock.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_own_colormap.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_visual.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_x.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_absolute.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_expand.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_ext.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_isdir.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_list.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_match.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\filename_setext.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_arc.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_arci.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_ask.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_boxtype.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_color.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_cursor.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_curve.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_diamond_box.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_dnd.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_draw.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_draw_image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_draw_pixmap.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_engraved_label.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_file_dir.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_font.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_gtk.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_labeltype.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_line_style.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_open_uri.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_oval_box.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_overlay.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_overlay_visual.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_plastic.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_read_image.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_rect.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_round_box.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_rounded_box.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_set_font.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_set_fonts.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_scroll_area.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shadow_box.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_shortcut.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_show_colormap.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_symbols.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_vertex.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\screen_xywh.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_call_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\flstring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\scandir.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\numericsort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\vsnprintf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B71EB788-BBF4-4204-9633-F11AA81D0E49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

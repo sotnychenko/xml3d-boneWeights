@@ -1,0 +1,47 @@
+Determining if the int strcasecmp() exist passed with the following output:
+Change Dir: C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec463937101.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.21005.1
+[Microsoft .NET Framework, version 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 18/3/2015 11:55:27 .
+Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec463937101.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec463937101.dir\Debug\".
+  Creating directory "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec463937101.dir\Debug\cmTryCom.D5A742E9.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec463937101.dir\Debug\cmTryCom.D5A742E9.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec463937101.dir\Debug\\" /Fd"cmTryCompileExec463937101.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeTmp\CheckSymbolExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.21005.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec463937101.dir\Debug\\" /Fd"cmTryCompileExec463937101.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeTmp\CheckSymbolExists.c"
+  
+  CheckSymbolExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec463937101.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec463937101.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec463937101.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec463937101.dir\Debug\CheckSymbolExists.obj
+  cmTryCompileExec463937101.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec463937101.exe
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec463937101.dir\Debug\cmTryCom.D5A742E9.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec463937101.dir\Debug\cmTryCom.D5A742E9.tlog\cmTryCompileExec463937101.lastbuildstate".
+Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\CMakeFiles\CMakeTmp\cmTryCompileExec463937101.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.64
+
+File C:/Users/Oleksandr/Desktop/Pinocchio_source/cmake-3.2.1-win32-x86/bin/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main()
+{
+int strcasecmp();return 0;
+}
+

@@ -1,0 +1,71 @@
+﻿Build started 18/3/2015 14:22:44 .
+     1>Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\fltk_images.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Oleksandr/Desktop/Pinocchio_source/fltk-1.1.10/src/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\zlib" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\jpeg" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\png" /I"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"fltk_images.dir\Debug\\" /Fd"fltk_images.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\fl_images_core.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_BMP_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_GIF_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_Help_Dialog.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_JPEG_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNG_Image.cxx" "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNM_Image.cxx"
+         fl_images_core.cxx
+         Fl_BMP_Image.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_BMP_Image.cxx(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Fl_File_Icon2.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(145): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(168) : see declaration of 'strerror'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(317): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(440): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : see declaration of 'sscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(676): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(462) : see declaration of 'getenv'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(849): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(976): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(977): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_File_Icon2.cxx(981): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : see declaration of 'strcat'
+         Fl_GIF_Image.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_GIF_Image.cxx(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_GIF_Image.cxx(349): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_GIF_Image.cxx(351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+         Fl_Help_Dialog.cxx
+         Fl_JPEG_Image.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_JPEG_Image.cxx(113): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Fl_PNG_Image.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNG_Image.cxx(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Fl_PNM_Image.cxx
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNM_Image.cxx(61): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNM_Image.cxx(135): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(230) : see declaration of 'fscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNM_Image.cxx(140): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(230) : see declaration of 'fscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNM_Image.cxx(141): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(230) : see declaration of 'fscanf'
+     1>C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\src\Fl_PNM_Image.cxx(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(230) : see declaration of 'fscanf'
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk_images.lib" /NOLOGO fltk_images.dir\Debug\fl_images_core.obj
+         fltk_images.dir\Debug\Fl_BMP_Image.obj
+         fltk_images.dir\Debug\Fl_File_Icon2.obj
+         fltk_images.dir\Debug\Fl_GIF_Image.obj
+         fltk_images.dir\Debug\Fl_Help_Dialog.obj
+         fltk_images.dir\Debug\Fl_JPEG_Image.obj
+         fltk_images.dir\Debug\Fl_PNG_Image.obj
+         fltk_images.dir\Debug\Fl_PNM_Image.obj
+         fltk_images.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\bin\Debug\fltk_images.lib
+     1>Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\cmake-3.2.1-win32-x86\bin\src\fltk_images.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23

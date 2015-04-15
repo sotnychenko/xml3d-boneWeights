@@ -1,0 +1,36 @@
+﻿Build started 24/3/2015 14:31:15 .
+     1>Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\vc2005\fltkgl.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (.\Release\) contains files shared from another project (fltk.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\vc2005 /I..\zlib /I..\png /I..\jpeg /I.. /Zi /nologo /W1 /WX- /Od /Ob2 /Oy- /D _CRT_SECURE_NO_DEPRECATE /D WIN32 /D NDEBUG /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D VC_EXTRA_LEAN /D WIN32_EXTRA_LEAN /D _VC80_UPGRADE=0x0710 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\Fl_Gl_Choice.cxx ..\src\Fl_Gl_Overlay.cxx ..\src\Fl_Gl_Window.cxx ..\src\freeglut_geometry.cxx ..\src\freeglut_stroke_mono_roman.cxx ..\src\freeglut_stroke_roman.cxx ..\src\freeglut_teapot.cxx ..\src\gl_draw.cxx ..\src\gl_start.cxx ..\src\glut_compatability.cxx ..\src\glut_font.cxx
+         Fl_Gl_Choice.cxx
+         Fl_Gl_Overlay.cxx
+         Fl_Gl_Window.cxx
+         freeglut_geometry.cxx
+         freeglut_stroke_mono_roman.cxx
+         freeglut_stroke_roman.cxx
+         freeglut_teapot.cxx
+         gl_draw.cxx
+         gl_start.cxx
+         glut_compatability.cxx
+         glut_font.cxx
+         Generating Code...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1354,5): warning MSB8012: TargetPath(C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\vc2005\.\Release\fltkgl.lib) does not match the Library's OutputFile property value (C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\lib\fltkgl.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"..\lib\fltkgl.lib" /NOLOGO .\Release/Fl_Gl_Choice.obj
+         .\Release/Fl_Gl_Overlay.obj
+         .\Release/Fl_Gl_Window.obj
+         .\Release/freeglut_geometry.obj
+         .\Release/freeglut_stroke_mono_roman.obj
+         .\Release/freeglut_stroke_roman.obj
+         .\Release/freeglut_teapot.obj
+         .\Release/gl_draw.obj
+         .\Release/gl_start.obj
+         .\Release/glut_compatability.obj
+         .\Release/glut_font.obj
+         fltkgl.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\vc2005\.\Release\fltkgl.lib
+     1>Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\fltk-1.1.10\vc2005\fltkgl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.99

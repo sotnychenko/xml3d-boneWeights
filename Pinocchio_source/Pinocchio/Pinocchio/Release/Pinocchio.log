@@ -1,0 +1,40 @@
+﻿Build started 8/4/2015 11:42:39 .
+     1>Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Pinocchio\Pinocchio.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D PINOCCHIO_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt attachment.cpp discretization.cpp embedding.cpp graphutils.cpp indexer.cpp intersector.cpp lsqSolver.cpp matrix.cpp mesh.cpp Pinocchio.cpp pinocchioApi.cpp refinement.cpp skeleton.cpp
+         attachment.cpp
+         discretization.cpp
+         embedding.cpp
+         graphutils.cpp
+         indexer.cpp
+         intersector.cpp
+         lsqSolver.cpp
+         matrix.cpp
+         mesh.cpp
+         Pinocchio.cpp
+         pinocchioApi.cpp
+         refinement.cpp
+         skeleton.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Release\Pinocchio.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Release\Pinocchio.pdb" /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Release\Pinocchio.lib" /MACHINE:X86 /SAFESEH /DLL Release\attachment.obj
+         Release\discretization.obj
+         Release\embedding.obj
+         Release\graphutils.obj
+         Release\indexer.obj
+         Release\intersector.obj
+         Release\lsqSolver.obj
+         Release\matrix.obj
+         Release\mesh.obj
+         Release\Pinocchio.obj
+         Release\pinocchioApi.obj
+         Release\refinement.obj
+         Release\skeleton.obj
+            Creating library C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Release\Pinocchio.lib and object C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Release\Pinocchio.exp
+         Generating code
+         Finished generating code
+         Pinocchio.vcxproj -> C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Release\Pinocchio.dll
+     1>Done Building Project "C:\Users\Oleksandr\Desktop\Pinocchio_source\Pinocchio\Pinocchio\Pinocchio.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.22
